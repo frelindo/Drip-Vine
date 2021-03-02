@@ -11,7 +11,7 @@
  
 #### A: Download texture pack only (Recommended)
 
-   1.  Click on this [download link]()
+   1.  Click on this [download link](https://github.com/frelindo/Drip-Vine/raw/main/%C2%A76Drip%20%C2%A7aVine.zip)
    
    2.  The texture pack will be located inside your download folder
    
