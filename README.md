@@ -20,7 +20,7 @@
 
 #### B: Download All Files             
     
-   1.  Click on this [download link]()
+   1.  Click on this [download link](https://github.com/frelindo/Drip-Vine/archive/main.zip)
    
    2a. The file (*Drip Vine.zip*) will be located inside your download folder
    
