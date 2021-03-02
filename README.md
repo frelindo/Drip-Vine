@@ -22,10 +22,10 @@
     
    1.  Click on this [download link](https://github.com/frelindo/Drip-Vine/archive/main.zip)
    
-   2a. The file (*Drip Vine.zip*) will be located inside your download folder
+   2a. The file (*Drip-Vine-main.zip*) will be located inside your download folder
    
    2b. The texture pack will be located inside 
-*Drip-Vine.zip/Drip-Vine-main/§6Drip §aVine.zip*
+*Drip-Vine-main.zip/Drip-Vine-main/§6Drip §aVine.zip*
 
    You have to unzip the first *.zip* file (from step 2a) to be able to move the texture pack
             
